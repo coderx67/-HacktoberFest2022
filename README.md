@@ -24,7 +24,7 @@ keep in mind that repo has hacktoberfest topic..
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatform.uno%2Fblog%2Funo-platform-at-hacktoberfest-2022-prizes-and-how-to-participate%2F&psig=AOvVaw2wz6FbBOIBhR7dVH73g9Wa&ust=1667151947475000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiF_pL_hfsCFQAAAAAdAAAAABAE" width="30%">
+        <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatform.uno%2Fblog%2Funo-platform-at-hacktoberfest-2022-prizes-and-how-to-participate%2F&psig=AOvVaw2wz6FbBOIBhR7dVH73g9Wa&ust=1667151947475000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiF_pL_hfsCFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Fhacktoberfest&psig=AOvVaw2wz6FbBOIBhR7dVH73g9Wa&ust=1667151947475000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiF_pL_hfsCFQAAAAAdAAAAABAO)" width="30%">
     </a>
 </p>
 
